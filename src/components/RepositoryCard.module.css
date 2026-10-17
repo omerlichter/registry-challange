@@ -1,0 +1,47 @@
+.link {
+  display: block;
+  height: 100%;
+  border-radius: 8px;
+}
+
+.link:focus-visible {
+  outline: 2px solid #1d63ed;
+  outline-offset: 2px;
+}
+
+.card {
+  height: 100%;
+}
+
+.body {
+  height: 100%;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.name {
+  font-size: 16px;
+}
+
+.owner {
+  font-size: 13px;
+}
+
+.description {
+  flex: 1;
+  margin-bottom: 0 !important;
+  min-height: 44px;
+}
+
+.placeholder {
+  font-style: italic;
+}
+
+.stats {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.55);
+}

@@ -1,0 +1,17 @@
+.hero {
+  max-width: 720px;
+  margin: 0 auto 40px;
+  text-align: center;
+}
+
+.resultsHeader {
+  margin-bottom: 16px;
+}
+
+.empty {
+  padding: 48px 0;
+}
+
+.listFooter {
+  margin-top: 32px;
+}

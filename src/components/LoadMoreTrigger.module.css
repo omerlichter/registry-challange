@@ -1,0 +1,5 @@
+.trigger {
+  display: flex;
+  justify-content: center;
+  min-height: 48px;
+}
